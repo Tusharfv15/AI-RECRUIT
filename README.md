@@ -5,8 +5,8 @@
 **AI-Recruit is an AI-driven mock interview platform designed to simulate realistic interview experiences.**
 
 ## Key Features:
-- AI-Generated Questions: Powered by Gemini's LLM model to create tailored interview scenarios based on user profiles and responses.
-- Real-Time Interaction: Integrated React Webcam for seamless user interaction and a speech-to-text recognizer with 85% accuracy.
+- AI-Generated Questions: Powered by **Gemini's LLM model** to create tailored interview scenarios based on user profiles and responses.
+- Real-Time Interaction: Integrated React Webcam for seamless user interaction and a speech-to-text recognizer with **85% accuracy**.
 - AI-Based Feedback: Automated feedback system that evaluates and rates user responses, improving the interview process.
 - [Live](https://ai-recruit-indol.vercel.app/)
 
@@ -32,7 +32,7 @@ It features performance analytics and a user-friendly interface to enhance the i
   ![Screenshot 2024-09-29 012907](https://github.com/user-attachments/assets/574b8d99-425c-4534-9a55-d082b86ef3fb)
 
   The Interview Question Generation feature utilizes an AI-driven system to provide tailored interview questions,
-  while the React Speech-to-Text recognizer converts user responses into text for evaluation.
+  while the **React Speech-to-Text recognizer** converts user responses into text for evaluation.
   This combination enhances the mock interview experience by facilitating real-time feedback and allowing users to practice their verbal communication skills effectively.
 
 - **AI Driven feedback system**
